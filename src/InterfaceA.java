@@ -1,5 +1,6 @@
 public interface InterfaceA {
     void hoge();
+    //method is Add to public abstract void ..method_Name();
     public abstract void hello();
 
     abstract void hello_World();
