@@ -6,4 +6,8 @@ public interface InterfaceA {
 
     public abstract void hello_Sky();
 
+
+    int MAX_HP = 99;
+    //public static final int maxHp = 99;
+    //interface field is need to add a public static final ....
 }
