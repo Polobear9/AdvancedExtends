@@ -14,4 +14,8 @@ public class Class2 extends ClassA
     public void hello_World() {
         System.out.println("hello world Method!");
     }
+
+    public void hello_Sky(){
+        System.out.println("hello world SkyMethod!");
+    }
 }

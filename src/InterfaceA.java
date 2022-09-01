@@ -4,4 +4,6 @@ public interface InterfaceA {
 
     abstract void hello_World();
 
+    public abstract void hello_Sky();
+
 }
