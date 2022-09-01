@@ -1,9 +1,10 @@
 public class Class1 extends ClassA
-                    implements InterfaceA, InterfaceB{
+                    implements InterfaceA, InterfaceB, InterfaceC{
     @Override
     public void hoge(){
         System.out.println("hello");
     }
+    //Can add a many Interface, and Also the Method can be double.
     public void hello(){
         System.out.println("hello World!");
     }
